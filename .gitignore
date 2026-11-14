@@ -1,0 +1,12 @@
+.venv/
+.env
+resumes/
+parsed_cache.json
+ranked_results.json
+shortlist.csv
+__pycache__/
+
+frontend/dist/
+node_modules/
+
+job_description.txt
